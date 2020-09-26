@@ -1,0 +1,7 @@
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\bin\Debug\ClientProgram.exe.config
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\bin\Debug\ClientProgram.exe
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\bin\Debug\ClientProgram.pdb
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\obj\Debug\ClientProgram.csprojAssemblyReference.cache
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\obj\Debug\ClientProgram.csproj.CoreCompileInputs.cache
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\obj\Debug\ClientProgram.exe
+C:\Users\joshs\Documents\Work\Year3\AdvancedCS\Client\ClientProgram\obj\Debug\ClientProgram.pdb
