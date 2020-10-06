@@ -9,7 +9,7 @@ public class ClientGUI extends JFrame implements ActionListener {
     public JComboBox dropDown;
     public JButton button;
 
-    private Client client;
+    public Client client;
 
     //crates the GUI when the client is made
     public ClientGUI(Client client){

@@ -17,6 +17,7 @@ namespace ClientProgram
 
         static void Main(String[] args)
         {
+            //creates a client thread and reads from the server what id the player has been assigned
             try
             {
                 Thread thread = new Thread(() =>

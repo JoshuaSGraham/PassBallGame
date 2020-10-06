@@ -8,6 +8,7 @@ namespace ServerProgram
 {
     class Player
     {
+        //getters and setters for the player to provide easy access to details about specififc players
         private readonly int playerID;
         private bool hasBall;
 

@@ -12,6 +12,7 @@ namespace ServerProgram
 {
     class ServerProgram
     {
+        //sets the port with which the server will be connected to by other players
         private const int port = 8888;
         private static readonly Players players = new Players();
         private static int ID = 0;
